@@ -3,8 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="d8db93b2-dc11-4738-b338-7845f2050a43" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/packages/twig.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/twig.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Controller/ArticleAdminController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/ArticleAdminController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Form/ArticleFormType.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Form/ArticleFormType.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,7 +172,7 @@
       <option name="presentableId" value="Default" />
       <updated>1586705620587</updated>
       <workItem from="1586705622597" duration="5913000" />
-      <workItem from="1586787538000" duration="1354000" />
+      <workItem from="1586787538000" duration="3264000" />
     </task>
     <servers />
   </component>
@@ -179,10 +180,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="493" y="39" key="#com.intellij.ide.util.MemberChooser" timestamp="1586706989921">
+    <state x="493" y="39" width="379" height="636" key="#com.intellij.ide.util.MemberChooser" timestamp="1586792230587">
       <screen x="0" y="0" width="1366" height="714" />
     </state>
-    <state x="493" y="39" key="#com.intellij.ide.util.MemberChooser/0.0.1366.714@0.0.1366.714" timestamp="1586706989921" />
+    <state x="493" y="39" width="379" height="636" key="#com.intellij.ide.util.MemberChooser/0.0.1366.714@0.0.1366.714" timestamp="1586792230587" />
     <state x="435" y="167" key="NewPhpClassDialog" timestamp="1586706856462">
       <screen x="0" y="0" width="1366" height="714" />
     </state>
@@ -191,9 +192,9 @@
       <screen x="0" y="0" width="1366" height="714" />
     </state>
     <state x="191" y="0" key="SettingsEditor/0.0.1366.714@0.0.1366.714" timestamp="1586705670748" />
-    <state x="346" y="35" width="672" height="678" key="search.everywhere.popup" timestamp="1586707228828">
+    <state x="346" y="35" width="672" height="678" key="search.everywhere.popup" timestamp="1586794946839">
       <screen x="0" y="0" width="1366" height="714" />
     </state>
-    <state x="346" y="35" width="672" height="678" key="search.everywhere.popup/0.0.1366.714@0.0.1366.714" timestamp="1586707228828" />
+    <state x="346" y="35" width="672" height="678" key="search.everywhere.popup/0.0.1366.714@0.0.1366.714" timestamp="1586794946839" />
   </component>
 </project>
