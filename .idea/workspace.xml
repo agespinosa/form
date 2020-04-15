@@ -4,6 +4,7 @@
     <list default="true" id="d8db93b2-dc11-4738-b338-7845f2050a43" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/ArticleAdminController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/ArticleAdminController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Form/ArticleFormType.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Form/ArticleFormType.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -172,7 +173,10 @@
       <updated>1586705620587</updated>
       <workItem from="1586705622597" duration="5913000" />
       <workItem from="1586787538000" duration="3264000" />
-      <workItem from="1586799760389" duration="3735000" />
+      <workItem from="1586799760389" duration="4934000" />
+      <workItem from="1586897367409" duration="594000" />
+      <workItem from="1586953097786" duration="1192000" />
+      <workItem from="1586971282418" duration="1939000" />
     </task>
     <servers />
   </component>
