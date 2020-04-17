@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d8db93b2-dc11-4738-b338-7845f2050a43" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Controller/SecurityController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/SecurityController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Entity/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entity/User.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Form/UserRegistrationFormType.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Form/UserRegistrationFormType.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -180,7 +180,7 @@
       <workItem from="1586983352987" duration="4322000" />
       <workItem from="1587039625146" duration="8419000" />
       <workItem from="1587075029604" duration="632000" />
-      <workItem from="1587124341872" duration="1657000" />
+      <workItem from="1587124341872" duration="4462000" />
     </task>
     <servers />
   </component>
@@ -200,9 +200,9 @@
       <screen x="0" y="0" width="1366" height="714" />
     </state>
     <state x="191" y="0" key="SettingsEditor/0.0.1366.714@0.0.1366.714" timestamp="1586705670748" />
-    <state x="346" y="35" width="672" height="678" key="search.everywhere.popup" timestamp="1587056222690">
+    <state x="346" y="35" width="672" height="678" key="search.everywhere.popup" timestamp="1587128047695">
       <screen x="0" y="0" width="1366" height="714" />
     </state>
-    <state x="346" y="35" width="672" height="678" key="search.everywhere.popup/0.0.1366.714@0.0.1366.714" timestamp="1587056222690" />
+    <state x="346" y="35" width="672" height="678" key="search.everywhere.popup/0.0.1366.714@0.0.1366.714" timestamp="1587128047695" />
   </component>
 </project>
