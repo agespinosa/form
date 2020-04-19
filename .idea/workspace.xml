@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d8db93b2-dc11-4738-b338-7845f2050a43" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Form/UserRegistrationFormType.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Form/UserRegistrationFormType.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/security/register.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/security/register.html.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -182,7 +181,8 @@
       <workItem from="1587075029604" duration="632000" />
       <workItem from="1587124341872" duration="4462000" />
       <workItem from="1587155710751" duration="3145000" />
-      <workItem from="1587219881457" duration="2900000" />
+      <workItem from="1587219881457" duration="3460000" />
+      <workItem from="1587298106033" duration="3606000" />
     </task>
     <servers />
   </component>
